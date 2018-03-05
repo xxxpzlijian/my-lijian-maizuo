@@ -1,0 +1,54 @@
+.list_films{
+	height:122px;
+	width:3.5rem;
+	margin-left:0.13rem;
+	margin-top:10px;
+	display:flex;
+	border-bottom:1px dashed #888;
+}
+.imgs1{
+	margin-top:5px;
+	height:80%;
+}
+.ps1{
+	flex:1;
+	padding-left:10px;
+}
+.spa1{
+	display:block;
+	height:32px;
+	display:flex;
+}
+.spa2{
+	display:block;
+	height:24px;
+	font-size:12px;
+	color:#888;
+	margin-top:10px;
+	line-height: 24px;
+}
+.spa3{
+	display:block;
+	height:24px;
+	line-height:24px;
+	font-size:12px;
+	color:#888;
+	margin-top:10px;
+
+}
+.mingz{
+	flex:1;
+	font-size:16px;
+	line-height:32px;
+}
+.listpingf{
+	color:#888;
+}
+.iii{
+	display:block;
+	width:40px;
+	height:32px;
+	font-size:18px;
+	line-height:32px;
+	color:#fc7103;
+}

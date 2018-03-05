@@ -1,0 +1,10 @@
+.long{
+	height:2.1rem;
+	background:pink;
+}
+img{
+	height:2.1rem;
+}
+.slick-dots{
+	display:none!important;
+}

@@ -1,0 +1,13 @@
+@charset "utf-8";
+body,h1,h2,h4,h5,h6,h3,p,dl,ul,li,dt,dd,td,input,fieldset,form{margin:0;padding:0;}
+ul,ol,li{list-style:none;}
+a,u{text-decoration: none;}
+h1,h2,h3,h4,h5,h6{font-size:16px;font-weight:100;}
+i,em{font-style:normal;}
+b,strong{font-weight:100;}
+img{display:block;border:0;}
+html,body{height:100%}
+*{box-sizing:border-box;}
+body{display:flex;flex-direction:column;font-size:16px;}
+html{font-size:26.67vw;}
+#root{height:100%;}

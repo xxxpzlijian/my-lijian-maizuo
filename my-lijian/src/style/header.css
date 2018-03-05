@@ -1,0 +1,41 @@
+.head{
+	height:50px;
+	background:#282828;
+	display:flex;
+}
+.sp1{
+	display:block;
+	height:50px;
+	width:50px;
+	text-align:center;
+	line-height:50px;
+	font-size:26px;
+	color:#fff;
+	border-right:1px solid #222;
+}
+.logo{
+	width:84px;
+	text-align:center;
+	line-height:50px;
+	color:#fff;
+}
+.dizi{
+	display:block;
+	width:65px;
+	text-align:center;
+	line-height:50px;
+	color:#fff;
+}
+.yong{
+	display:block;
+	height:50px;
+	width:50px;
+	border-left:1px solid #222;
+	text-align:center;
+	line-height:50px;
+	color:#fff;
+	font-size:24px;
+}
+.zhanw{
+	flex:1;
+}

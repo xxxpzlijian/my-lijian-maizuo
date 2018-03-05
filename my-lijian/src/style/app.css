@@ -1,0 +1,30 @@
+.App{
+	display:flex;
+	height:100%;
+	flex-direction:column;
+}
+.main{
+	display:flex;
+	flex-direction:column;
+	flex:1;
+	background:rgb(235, 235, 235);
+	overflow:scroll;
+	max-width: 4rem;
+}
+.header1{
+	position:absolute;
+}
+.main ul{
+	width:230px;
+	height:92.5%;
+	background:#000;
+	opacity:0.5;
+	position:absolute;
+	top:50px;
+	left:0px; 
+	z-index: 999;
+}
+.main ul li{
+	color:#fff;
+	height:45px;
+}   
